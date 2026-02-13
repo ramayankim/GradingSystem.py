@@ -1,6 +1,6 @@
-fullname ="Leo Rayos"
-age = 20
-height = 5.6
+fullname ="Kim Ramayan"
+age = 25
+height = 1.65
 currently_working = False
 
 print("Fullname:", fullname)
