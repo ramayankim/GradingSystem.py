@@ -1,2 +1,0 @@
-# GradingSystem.py
-Grade value 
